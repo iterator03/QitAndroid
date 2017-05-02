@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_height="288dp"
+        android:layout_width="match_parent">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/splash"
+            app:toolbarId="@+id/toolbar"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:contentScrim="?attr/colorPrimary">
+
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:inputType="textPersonName"
+        android:hint="QueueId"
+        android:textAlignment="center"
+        android:layout_marginTop="350dp"
+        android:ems="10"
+        android:id="@+id/editText1"
+        android:backgroundTintMode="src_over"
+        android:textStyle="normal|bold"
+        android:textSize="20dp"
+        android:textAllCaps="true" />
+
+    <EditText
+        android:layout_width="292dp"
+        android:layout_height="38dp"
+        android:inputType="textPersonName|number"
+        android:hint="People Before you"
+        android:textAlignment="center"
+        android:layout_marginTop="430dp"
+        android:ems="10"
+        android:id="@+id/editText2"
+        android:textStyle="normal|bold"
+        android:fontFamily="roman"
+        android:layout_marginLeft="50dp"
+        android:textColor="?attr/colorPrimary" />
+
+    <TextView
+        android:text="Your Queue Id is"
+        android:layout_width="352dp"
+        android:layout_height="48dp"
+        android:id="@+id/textView2"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/zxing_custom_viewfinder_laser"
+        android:textStyle="normal|bold"
+        android:padding="3dp"
+        android:backgroundTint="@android:color/holo_orange_light"
+        android:layout_marginRight="40dp"
+        android:textSize="30sp" />
+
+
+</android.support.design.widget.CoordinatorLayout>

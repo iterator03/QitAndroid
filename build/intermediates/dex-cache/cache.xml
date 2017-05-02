@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/stuxnet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_efa638a857b179e7e6e16410c8355de332e425cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_1763e5c2b753f5554cadd51cf548ca76baed1b0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_6e08ce7bbaa5bfef411e196d5293d5b5fc51410f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_2fea43a8ef3595f70b68d5746ffc547612cac19e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_25d1daaa4ae345920703663769f1a74da6e28e1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_66a14babe3ce33afee6ae8409799c99ba80c35c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f1dfb13cfeada5aa9bf8c82f7e22dbb9675b97e0">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b101c22804a57baf9ba4542f670915a03197a19f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_7d4d129d5390e21214fd5737ac178487af4ef59a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_bbb3f1cc6826bb167154f856bde54511df083764/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_c37dafb33ba0c07cd69cb57d929a7371d6e25303/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_ef6b7c4a7bcec05d812b0abe0732e57b19d7c712/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_79cacafc89e0ac908a66e6bd1c7c3c21bb70a2b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_4cbfa1050432b735f0839b556612310b57f6fb7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.journeyapps-zxing-android-embedded-3.2.0_84d001cb8c53657a079f983c1684d67e645f4d24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f3da415163bce9239ec433990e6e1310cd86fe54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_75a464e6fd1161db1dac51143c23beffa7265391/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_bb3d0de66d55a6aad81b9ccf1d63a8f5a8b46f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c4ee5da45910e0309fc341b122d1947c62a87a20">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0dd849284f23d133024b472e4a26b22349e6e056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_760c84a23795190ad7a0992cf0176f8f95541f00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3a7901c59db8cd0b164875a3e7fdbc2fef45be25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7dfe79a800f50928d2fb09a167cf9764537389ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.2.1_7cbe42c14d7eae00612a94cab544849d25d04fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_9e98f728adba88df6349e363ab0eb826221a9d0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_3aedc01cad0fec7ea720c468961a0707fef9b075/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_73a3412b86bfdc719876f9df828ef35b11d97b69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_104a8fa0d209640f36ed1de8a625193aaf495958/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_a7c2dec01b450bae66075c89fa08a99716f8f0e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/stuxnet/med/QueueHint/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/media/stuxnet/med/QueueHint/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e8402bc1d9a79a74bb40349bff0324febd4e0982/classes.dex" />
+    </item>
+
+</items>
